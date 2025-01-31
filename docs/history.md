@@ -1,0 +1,4 @@
+# 📜 History
+Mity was created on 09 November, 2019 which was created as a private bot for our small discord server. At first Mity only had some basic commands and features. With a short span of time, Mity has developed so much. From the very starting of the development, we have always focused on to make the bot as light we can make it.
+
+Eventually some of the server members started demanding that, Mity should be a public bot and should be made accessible to all Discord Server. We took much long time and on around 10 October, 2022, we declared bot as a public bot. We hope in the future, we can get it verified and make it the best for everyone!
